@@ -1,0 +1,13 @@
+C:\Users\Rares\RiderProjects\Corruption\Corruption\bin\Debug\netcoreapp3.1\Corruption.exe
+C:\Users\Rares\RiderProjects\Corruption\Corruption\bin\Debug\netcoreapp3.1\Corruption.deps.json
+C:\Users\Rares\RiderProjects\Corruption\Corruption\bin\Debug\netcoreapp3.1\Corruption.runtimeconfig.json
+C:\Users\Rares\RiderProjects\Corruption\Corruption\bin\Debug\netcoreapp3.1\Corruption.runtimeconfig.dev.json
+C:\Users\Rares\RiderProjects\Corruption\Corruption\bin\Debug\netcoreapp3.1\Corruption.dll
+C:\Users\Rares\RiderProjects\Corruption\Corruption\bin\Debug\netcoreapp3.1\Corruption.pdb
+C:\Users\Rares\RiderProjects\Corruption\Corruption\obj\Debug\netcoreapp3.1\Corruption.csprojAssemblyReference.cache
+C:\Users\Rares\RiderProjects\Corruption\Corruption\obj\Debug\netcoreapp3.1\Corruption.AssemblyInfoInputs.cache
+C:\Users\Rares\RiderProjects\Corruption\Corruption\obj\Debug\netcoreapp3.1\Corruption.AssemblyInfo.cs
+C:\Users\Rares\RiderProjects\Corruption\Corruption\obj\Debug\netcoreapp3.1\Corruption.csproj.CoreCompileInputs.cache
+C:\Users\Rares\RiderProjects\Corruption\Corruption\obj\Debug\netcoreapp3.1\Corruption.dll
+C:\Users\Rares\RiderProjects\Corruption\Corruption\obj\Debug\netcoreapp3.1\Corruption.pdb
+C:\Users\Rares\RiderProjects\Corruption\Corruption\obj\Debug\netcoreapp3.1\Corruption.genruntimeconfig.cache

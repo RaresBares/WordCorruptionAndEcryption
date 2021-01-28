@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Corruption", "Corruption\Corruption.csproj", "{A10D8751-796B-4D1F-AC61-09323391A764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A10D8751-796B-4D1F-AC61-09323391A764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10D8751-796B-4D1F-AC61-09323391A764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10D8751-796B-4D1F-AC61-09323391A764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10D8751-796B-4D1F-AC61-09323391A764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
